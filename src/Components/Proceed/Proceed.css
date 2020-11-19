@@ -1,0 +1,49 @@
+.proceed{
+    width:350px;
+    height:700px;
+    border-radius: 40px;
+    background-image: url('../../images/Bg.png');
+    background-size: cover;
+    background-repeat:no-repeat;
+    margin:0 auto;
+    border:15px solid black;
+}
+.proceed-header{
+    background-image: url('../../images/Bg\ 2.3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:300px;
+    width: 350px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+   
+}
+.proceed-header img{
+    width:100px;
+    height:150px;
+    margin-left:98px;
+    margin-top: 50px;
+}
+.mobile-form label{
+    margin-left: 15px;
+}
+.mobile-form input{
+    width:290px;
+    height:44px;
+    background-color:white;
+    border:2px solid #F69836;
+    border-radius: 12px;
+    margin:0 auto;
+    margin-left:15px;
+}
+.proceed-btn{
+    width:290px;
+    height:44px;
+    background-color:#F69836;
+    margin:0 auto;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    margin-left: 15px;
+}

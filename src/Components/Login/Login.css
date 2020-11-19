@@ -1,0 +1,44 @@
+.login{
+    width:350px;
+    height:700px;
+    border-radius: 40px;
+    background-image: url('../../images/Bg.png');
+    background-size: cover;
+    background-repeat:no-repeat;
+    margin:0 auto;
+    border:15px solid black;
+}
+.login-header{
+    background-image: url('../../images/Bg\ 2.2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:300px;
+    width: 350px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+   
+}
+.login-header img{
+    width:100px;
+    height:150px;
+    margin-left:100px;
+    margin-top: 50px;
+}
+.login-page-btn{
+    width:290px;
+    height:44px;
+    background-color:white;
+    border:2px solid #F69836;
+    margin:0 auto;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 10px;
+    display:flex;
+    margin-left: 15px;
+    color: black;
+}
+.social-logo{
+    width:30px;
+    height:30px;
+    margin:5px 12px;
+}
